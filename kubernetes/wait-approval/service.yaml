@@ -7,5 +7,5 @@ spec:
     app: wait-approval
   ports:
     - protocol: TCP
-      port: 9085
-      targetPort: 9085
+      port: 8080
+      targetPort: 8080
