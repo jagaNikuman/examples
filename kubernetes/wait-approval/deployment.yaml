@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: argoproj/rollouts-demo:blue
+        image: argoproj/rollouts-demo:yellow
         args:
           - server
         ports:
